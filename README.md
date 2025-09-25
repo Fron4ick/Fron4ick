@@ -48,5 +48,7 @@
 
 ### Полезные материалы и визуалы
 - Статистика GitHub: ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true)
-
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)
+![Blender](https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=F5792A)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ---
