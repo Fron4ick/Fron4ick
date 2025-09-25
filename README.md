@@ -48,7 +48,5 @@
 - Fedor.Rozhin@urfu.me
 
 ---
-
-### Полезные материалы и визуалы
-- Статистика GitHub: ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true)
 ---
