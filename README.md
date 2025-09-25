@@ -51,7 +51,30 @@
 - Мини-нейросеть для распознавания  
 - Скрипты для обработки изображений  
 - Сайт-портфолио и другие микропроекты 
+```python
+# compact_digit_128.py — запуск: python compact_digit_128.py
+import tensorflow as tf
+from tensorflow.keras import layers, models
 
+bs=32; img=(128,128)
+train = tf.keras.utils.image_dataset_from_directory("data/train", image_size=img, batch_size=bs)
+val   = tf.keras.utils.image_dataset_from_directory("data/val",   image_size=img, batch_size=bs)
+
+model = models.Sequential([
+  layers.Rescaling(1./255, input_shape=(*img,3)),
+  layers.Conv2D(16,3,activation='relu'), layers.MaxPool2D(),
+  layers.Conv2D(32,3,activation='relu'), layers.MaxPool2D(),
+  layers.Conv2D(64,3,activation='relu'),
+  layers.GlobalAveragePooling2D(),
+  layers.Dense(64,activation='relu'),
+  layers.Dense(10,activation='softmax')
+])
+
+model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['acc'])
+model.fit(train, validation_data=val, epochs=10)
+model.save('digits128.h5')
+
+```
 ---
 
 ## 📫 Контакты  
