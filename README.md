@@ -81,5 +81,6 @@ model.save('digits128.h5')
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true&theme=dark)
+
 
