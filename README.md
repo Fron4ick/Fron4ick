@@ -47,7 +47,6 @@
 ---
 
 ### Полезные материалы и визуалы
-- Бейджи: `![badge](https://img.shields.io/badge/tech-Python-3776AB)` — можно вставлять сверху.  
-- Статистика GitHub (пример): ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- Статистика GitHub: ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true)
 
 ---
