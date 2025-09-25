@@ -30,10 +30,10 @@
    - Мини-нейросети и prototyping
 2. **Веб**
    - HTML/CSS, простая вёрстка сайтов
-3. **Инструменты и окружение**
-   4. Git, GitHub / Gitverse
-   5. Visual Studio, WebStorm
-   6. Yandex.Cloud и облачные сервисы
+1. **Инструменты и окружение**
+	1. Git, GitHub / Gitverse
+	2. Visual Studio, WebStorm
+	3. Yandex.Cloud и облачные сервисы
 7. **3D (Blender)**
    - Статичные сцены (рендер)
    - Анимации: ручные и управляемые физикой
