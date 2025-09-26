@@ -1,5 +1,5 @@
 # 👋 Фёдор  Рожин «Fron»
-![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)  ![Blender](https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=F5792A)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.13-blue?logo=python)  ![Blender](https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=F5792A)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ---
 
 ## 🧑‍💻 Обо мне  
