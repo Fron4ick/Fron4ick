@@ -9,9 +9,6 @@
 ---
 
 ## 📫 Контакты  
-- **Telegram**: [@Fron_dr](https://t.me/Fron_dr)  
+- **Telegram**: [@Fron_dr](https://t.me/Fron_dr) 
 - **Почта**: Fedor.Rozhin@urfu.me  
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fron4ick&show_icons=true&theme=dark)
+- **Кинориум**: [![Перейти](https://img.shields.io/badge/Кинориум-blue)](https://kinorium.com/user/978292/)
