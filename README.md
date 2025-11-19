@@ -1,14 +1,45 @@
-# 👋 Фёдор  Рожин «Fron»
-![Python](https://img.shields.io/badge/python-3.13-blue?logo=python)  ![Blender](https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=F5792A)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+# 👋 Фёдор Рожин «Fron»
+![Python](https://img.shields.io/badge/python-3.13-blue?logo=python)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=F5792A)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ---
 
 ## 🧑‍💻 Обо мне  
-Я — студент 1 курса факультета Радиоэлектроники и информационных технологий, УрФУ.  
-Со школы плыву на **Python**: алгоритмы, компьютерное зрение, мини-нейросети, веб-скрипты.  
-Также мучаюсь с вёрсткой и фронтендом.
+Студент 1 курса **ИРИТ-РТФ УрФУ**, направление **ТОП-ИТ**.  
+Закончил школу в 2024 году и перебрался из **Челябинска** в **Екатеринбург**, чтобы заниматься тем, что действительно нравится.
+
+Увлекаюсь:
+- **программированием** (Python, C#, веб-проекты),
+- созданием маленьких, но упрямо работающих утилит,
+- изучением архитектуры, алгоритмов и «как всё устроено»,
+- активным отдыхом — особенно **велопоездками**,
+- стратегиями и иногда дривовыми симуляторами.
+
+Ещё иду по жизни с важной миссией — распространять **Linux**. Попробовал один раз, теперь обязан проповедовать.
+
+---
+
+## 🔧 Мой небольшой стек  
+- **Языки:** Python, C#, немного JS  
+- **Инструменты:** Git, Linux, Bash  
+- **Веб:** HTML, CSS, базовые проекты на Flask / простые скрипты  
+
+---
+
+## 🎯 Чем занимаюсь сейчас  
+- Пишу учебные и личные проекты  
+- Разбираю алгоритмы и структуры данных  
+- Строю себе комфортную рабочую среду на Linux  
+- Учусь не превращать код в спагетти
+
 ---
 
 ## 📫 Контакты  
-- **Telegram**: [@Fron_dr](https://t.me/Fron_dr) 
-- **Почта**: Fedor.Rozhin@urfu.me  
-- **Кинориум**: [![Перейти](https://img.shields.io/badge/Кинориум-blue)](https://kinorium.com/user/978292/)
+- **Telegram:** [@Fron_dr](https://t.me/Fron_dr)  
+- **Почта:** Fedor.Rozhin@urfu.me  
+- **Кинориум:** [![Перейти](https://img.shields.io/badge/Кинориум-blue)](https://kinorium.com/user/978292/)
+
+---
