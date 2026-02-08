@@ -50,5 +50,5 @@
 <a href="https://discord.com/users/fron4ick" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.youtube.com/@fron4ick" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://x.com/fron_dron" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://kinorium.com/user/978292/" target="_blank"><img src="https://img.shields.io/badge/Кинориум-4354b4?style=for-the-badge" alt="Кинориум"/></a>
+<a href="https://ru.kinorium.com/fron/" target="_blank"><img src="https://img.shields.io/badge/Кинориум-4354b4?style=for-the-badge" alt="Кинориум"/></a>
 </p>
